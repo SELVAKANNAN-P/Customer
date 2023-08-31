@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/SELVAKANNAN-P/Netxd_Project1";
+option go_package = "github.com/SELVAKANNAN-P/Customer";
 
 package netxd_customer;
 
